@@ -10,6 +10,17 @@ public class LogicalOperators {
         boolean isCold = false;
         boolean hasUmbrella = true;
 
-        // TODO: Implement logical operations here
+        // Logical AND (&&)
+        System.out.println("Logical AND:");
+
+        // Logical OR (||)
+        System.out.println("Logical OR:");
+
+        // Logical Not (!)
+        System.out.println("Logical NOT:");
+
+        // Combined Logical Operators
+        System.out.println("Combined Logical Operators:");
+
     }
 }
